@@ -1,5 +1,5 @@
 
-# Lynette's Analytics Portfolio
+# Lynette's Project Portfolio
 
 Hi, my name is Lynette and here is a space to showcase some of my statistics/data analysis projects. Thank you for visiting.
 
