@@ -35,7 +35,7 @@ I gathered chord progressions through the sites Chordify and HookTheory (cited i
 
 ![](https://github.com/LAlibrary/LAportfolio/blob/main/chordexample.PNG "Hook Theory: Chord Example")
 
-I also then computed the transition probability matrices for each artist based on their chord progression among both songs.
+I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
 ![](https://github.com/LAlibrary/LAportfolio/blob/main/tmatrices.PNG "Transition Matrices")
 
