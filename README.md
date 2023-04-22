@@ -15,7 +15,7 @@ Essentially, one of my main questions is - What predictors define a hearing aid 
 
 ![](https://github.com/LAlibrary/LAportfolio/blob/main/hearingaidstyles.PNG "Hearing Aid Styles")
 
-In this project, I used a dataset I compiled consisting of hearing aid models and their features using the sites ZipHearing, HearingTracker, and hearing aid contracts (sources cited in report below).
+I used a dataset I compiled consisting of hearing aid models and their features using the sites ZipHearing, HearingTracker, and hearing aid contracts (sources cited in report below).
 
 A generalized logit model for nominal response was used in both SAS and R languages.
 
