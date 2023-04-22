@@ -29,7 +29,7 @@ I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink 
 
 Using R, I computed the transition probability matrices for each artist.
 
-I gathered chord progressions through the sites Chordify and HookTheory, and I constructed a vector of chords in R attributing to each song by each artist.
+I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R attributing to each song by each artist.
 
 Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).
 
