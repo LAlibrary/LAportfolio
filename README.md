@@ -48,6 +48,8 @@ I then computed the transition probability matrices for each artist based on the
 
 This was a group project in which an experiment was conducted and a fractional factorial design was used to analyze the data collected. The effects of various factors on carbon dioxide gas production are analyzed in observing the chemical reaction between different vinegar and baking soda amounts among a series of different sized ballons.
 
+![Balloon Reaction Process](https://github.com/LAlibrary/LAportfolio/blob/main/balloon.PNG)
+
 This experiment investigates the interactions among balloon size, vinegar, and baking soda on their collective impact on carbon dioxide gas production. This response was measured by measuring the circumference of the inflated ballon after the chemical reaction was complete.
 By implementing a fractional factorial design, this experiment examines these variables through three replicates, creating a comprehensive dataset of 12 observations. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calulated by hand, and all factors were found to be statistically significant.
  
