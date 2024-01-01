@@ -57,6 +57,6 @@ By implementing a fractional factorial design, this experiment examines these va
 ![ANOVA](https://github.com/LAlibrary/LAportfolio/blob/main/ANOVA.balloon.PNG)
  
 
-**Full detailed report with collaboration details can be found [here](https://docs.google.com/document/d/1pumIyqMS3Rjhv-uVJ8XwjEBXJGq0j6RwuXhnxMSTguU/edit?usp=sharing).**
+**Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
 
