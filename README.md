@@ -42,7 +42,7 @@ I then computed the transition probability matrices for each artist based on the
 
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
 
-# CSULB Applied Statistics Masters Program Projects
+# [CSULB Applied Statistics Masters Program Projects](https://github.com/LAlibrary/MAprojects)
 
 ## Statistical Experimental Design: The Fractional Factorial Design
 
