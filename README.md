@@ -5,7 +5,7 @@ Hi, my name is Lynette and here is a space to showcase some of my statistics/dat
 
 Thank you for visiting.
 
-# [Project 1: Modeling Hearing Aids](https://github.com/LAlibrary/Modeling_Hearing_Aids)
+# [Modeling Hearing Aids](https://github.com/LAlibrary/Modeling_Hearing_Aids)
 
 Hearing aids can be quite the investment. I have relatives who utilize hearing aids and their hearing aids have become an integral part of their everyday lives. 
 
@@ -21,7 +21,7 @@ A generalized logit model for nominal response was used in both SAS and R langua
 
 **Full detailed report can be accessed [here](https://drive.google.com/file/d/1DPw1zpNyheJUBnxzgjAMNsoB9OgeVcSq/view?usp=sharing).**
 
-# [Project 2 : Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
+# [Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
 
 As formula-based music can be, there is also randomness involved. The possibility of any note is equally likely.
 The Markov Property can be applied to music in the sense that while a note is random, it may depend only on the current note being played in a sequence. 
@@ -41,4 +41,9 @@ I then computed the transition probability matrices for each artist based on the
 
 
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
+
+# [CSULB Applied Statistics Masters Program Projects](https://github.com/LAlibrary/MAprojects)
+
+The link above will direct to projects I have completed so far as of Fall 2023 at CSULB.
+
 
