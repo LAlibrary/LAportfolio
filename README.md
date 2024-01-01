@@ -54,7 +54,7 @@ This experiment investigates the interactions among balloon size, vinegar, and b
 By implementing a fractional factorial design, this experiment examines these variables through three replicates, creating a comprehensive dataset of 12 observations. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calulated by hand, and all factors were found to be statistically significant.
 
 
-![ANOVA](https://github.com/LAlibrary/LAportfolio/blob/main/ANOVA.ballon.PNG)
+![ANOVA](https://github.com/LAlibrary/LAportfolio/blob/main/ANOVA.balloon.PNG)
  
 
 **Full detailed report with collaboration details can be found [here](https://docs.google.com/document/d/1pumIyqMS3Rjhv-uVJ8XwjEBXJGq0j6RwuXhnxMSTguU/edit?usp=sharing).**
