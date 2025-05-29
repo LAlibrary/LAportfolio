@@ -61,3 +61,8 @@ By implementing a fractional factorial design, this experiment examines these va
 ## [Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data] 
 
 
+## Radio Show Edits 
+
+Below are examples of some of the graphics I designed for my radio show, Claws Radio, that is hosted weekly through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
+
+
