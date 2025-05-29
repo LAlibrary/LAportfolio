@@ -1,7 +1,7 @@
 
-# [Lynette's Project Portfolio](https://github.com/LAlibrary/LAportfolio)
+# [Lynette's Portfolio](https://github.com/LAlibrary/LAportfolio)
 
-Hi, my name is Lynette and here is a space to showcase some of my statistics/data analysis projects. 
+Hi, my name is Lynette and here is a space to showcase some of my statistics and extracurricular projects.
 
 Thank you for visiting.
 
@@ -42,7 +42,7 @@ I then computed the transition probability matrices for each artist based on the
 
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
 
-## Statistical Experimental Design: The Fractional Factorial Design
+## [Statistical Experimental Design: The Fractional Factorial Design]
 
 This was a group project in which an experiment was conducted and a fractional factorial design was used to analyze the data collected. The effects of various factors on carbon dioxide gas production are analyzed in observing the chemical reaction between different vinegar and baking soda amounts among a series of different sized ballons.
 
@@ -55,9 +55,9 @@ By implementing a fractional factorial design, this experiment examines these va
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
-## Coachella Sentiment Analysis 
+## [Coachella Sentiment Analysis] 
 
 
-## Applying Survival Analysis Methods on Hospitalization Data 
+## [Applying Survival Analysis Methods on Hospitalization Data] 
 
 
