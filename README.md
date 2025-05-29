@@ -55,9 +55,9 @@ By implementing a fractional factorial design, this experiment examines these va
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
-## [Coachella Sentiment Analysis] 
+## [Natural Language Processing: Coachella Sentiment Analysis] 
 
 
-## [Applying Survival Analysis Methods on Hospitalization Data] 
+## [Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data] 
 
 
