@@ -14,6 +14,8 @@ I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink 
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R attributing to each song by each artist.
 I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
+![image](https://github.com/user-attachments/assets/6ef39439-d230-4723-91a9-89977ecd1cab)
+
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
 
 ## Statistical Experimental Design: The Fractional Factorial Design
