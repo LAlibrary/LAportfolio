@@ -5,7 +5,7 @@ Hi, my name is Lynette and here is a space to showcase some of my statistics and
 
 Thank you for visiting.
 
-# [Modeling Hearing Aids](https://github.com/LAlibrary/Modeling_Hearing_Aids)
+## [Modeling Hearing Aids](https://github.com/LAlibrary/Modeling_Hearing_Aids)
 
 Hearing aids can be quite the investment. I have relatives who utilize hearing aids and their hearing aids have become an integral part of their everyday lives. 
 
@@ -21,7 +21,7 @@ A generalized logit model for nominal response was used in both SAS and R langua
 
 **Full detailed report can be accessed [here](https://drive.google.com/file/d/1DPw1zpNyheJUBnxzgjAMNsoB9OgeVcSq/view?usp=sharing).**
 
-# [Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
+## [Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
 
 As formula-based music can be, there is also randomness involved. The possibility of any note is equally likely.
 The Markov Property can be applied to music in the sense that while a note is random, it may depend only on the current note being played in a sequence. 
@@ -55,10 +55,10 @@ By implementing a fractional factorial design, this experiment examines these va
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
-## [Natural Language Processing: Coachella Sentiment Analysis] 
+## [Natural Language Processing: Coachella Sentiment Analysis](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link) 
 
 
-## [Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data] 
+## [Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link) 
 
 
 ## Radio Show Work 
