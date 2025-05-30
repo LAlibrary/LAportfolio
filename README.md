@@ -50,6 +50,6 @@ By implementing a fractional factorial design, this experiment examines these va
 
 ## Radio Show Work 
 
-Below are examples of some of the graphics I designed for my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
+Below are examples of some of the posts I designed to promote my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
 
 
