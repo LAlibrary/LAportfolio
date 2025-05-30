@@ -1,4 +1,5 @@
-showcase some of my statistics and extracurricular projects.
+# Lynette's Portfolio 
+Hi my name is Lynette and this is a space to showcase some of my statistics and extracurricular projects.
 
 Thank you for visiting.
 
