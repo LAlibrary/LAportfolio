@@ -8,13 +8,9 @@ The Markov Property can be applied to music in the sense that while a note is ra
 
 For this project, I chose to compare two of my favorite artists by their chord progression usage.
 I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
-
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
 
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R attributing to each song by each artist.
-
-![Hook Theory: Chord Example](https://github.com/LAlibrary/LAportfolio/blob/main/chordexample.PNG)
-
 I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
 ![Transition Matrices in RStudio](https://github.com/LAlibrary/LAportfolio/blob/main/tmatrices.PNG)
