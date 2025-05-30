@@ -29,7 +29,8 @@ This was a group project in which an experiment was conducted and a fractional f
 This experiment investigates the interactions among balloon size, vinegar, and baking soda on their collective impact on carbon dioxide gas production. This response was measured by measuring the circumference of the inflated ballon after the chemical reaction was complete.
 By implementing a fractional factorial design, this experiment examines these variables through three replicates, creating a comprehensive dataset of 12 observations. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calulated by hand, and all factors were found to be statistically significant.
 
-![ANOVA](https://github.com/LAlibrary/LAportfolio/blob/main/ANOVA.balloon.PNG)
+![image](https://github.com/user-attachments/assets/875bb301-d733-4592-8269-6dea6c802724)
+
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
