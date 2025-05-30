@@ -55,4 +55,7 @@ Below is a table of the model building process with variables (with * indicating
 ## Radio Show Project
 Below are examples of some of the posts I designed to promote my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
 
+![image](https://github.com/user-attachments/assets/f1c8b25c-ebc0-4d9b-98f4-c49890d8a52b)
+
+
 
