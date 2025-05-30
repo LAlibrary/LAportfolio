@@ -54,7 +54,7 @@ Below are examples of some of the posts I designed to promote my radio show, Cla
 
 ![image](https://github.com/user-attachments/assets/e02f60f4-7659-4378-a29e-e64768f60720)
 
-![image](https://github.com/user-attachments/assets/9c925a3d-4c60-4e5f-916b-4c087837b020)
+![image](https://github.com/user-attachments/assets/601aa637-c90f-44ac-80ca-52fbbbd718a6)
 
 ![image](https://github.com/user-attachments/assets/695a0621-3cb0-4aaf-912d-2ad6e2d3940e)
 
