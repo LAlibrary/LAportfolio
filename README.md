@@ -5,7 +5,7 @@ Hi, my name is Lynette and here is a space to showcase some of my statistics and
 
 Thank you for visiting.
 
-## [Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
+## Visualizing The Markov Chain: Chord Progressions
 
 As formula-based music can be, there is also randomness involved. The possibility of any note is equally likely.
 The Markov Property can be applied to music in the sense that while a note is random, it may depend only on the current note being played in a sequence. 
