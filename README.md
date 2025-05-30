@@ -42,7 +42,7 @@ I then computed the transition probability matrices for each artist based on the
 
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
 
-## [Statistical Experimental Design: The Fractional Factorial Design]
+## Statistical Experimental Design: The Fractional Factorial Design
 
 This was a group project in which an experiment was conducted and a fractional factorial design was used to analyze the data collected. The effects of various factors on carbon dioxide gas production are analyzed in observing the chemical reaction between different vinegar and baking soda amounts among a series of different sized ballons.
 
