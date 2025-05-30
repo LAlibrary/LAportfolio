@@ -48,7 +48,7 @@ Below is an example of a Positive Word Cloud consisiting of top "positive" words
 The WHAS dataset, fully referred to as the Worcester Heart Attack Study, is a study on long-term survival following hospitalization for an acute myocardial infarction, also abbreviated AMI. This report uses the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data.
 
 Below is a table of the model building process with variables (with * indicating significance) and the corresponding -2logL statistic, and AIC.
-![image](https://github.com/user-attachments/assets/adcbc7a0-653d-46be-9408-0ce07b3b13d2)
+![Model Statistics](https://github.com/user-attachments/assets/adcbc7a0-653d-46be-9408-0ce07b3b13d2)
 
 **Full detailed report can be found [here](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link).**
 
