@@ -5,22 +5,6 @@ Hi, my name is Lynette and here is a space to showcase some of my statistics and
 
 Thank you for visiting.
 
-## [Modeling Hearing Aids](https://github.com/LAlibrary/Modeling_Hearing_Aids)
-
-Hearing aids can be quite the investment. I have relatives who utilize hearing aids and their hearing aids have become an integral part of their everyday lives. 
-
-In this project, I decided to research hearing aids to learn more about aid features and what influences styles/pricing.
-
-Essentially, one of my main questions is - What predictors define a hearing aid style?
-
-![Hearing Aid Styles](https://github.com/LAlibrary/LAportfolio/blob/main/hearingaidstyles.PNG)
-
-I used a dataset I compiled consisting of hearing aid models and their features using the sites ZipHearing, HearingTracker, and hearing aid contracts (sources cited in report below).
-
-A generalized logit model for nominal response was used in both SAS and R languages.
-
-**Full detailed report can be accessed [here](https://drive.google.com/file/d/1DPw1zpNyheJUBnxzgjAMNsoB9OgeVcSq/view?usp=sharing).**
-
 ## [Visualizing The Markov Chain: Chord Progressions](https://github.com/LAlibrary/Markov_Chain_Chord_Progressions)
 
 As formula-based music can be, there is also randomness involved. The possibility of any note is equally likely.
@@ -66,6 +50,6 @@ By implementing a fractional factorial design, this experiment examines these va
 
 ## Radio Show Work 
 
-Below are examples of some of the graphics I designed for my radio show, Claws Radio, that is hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
+Below are examples of some of the graphics I designed for my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
 
 
