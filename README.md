@@ -55,14 +55,17 @@ By implementing a fractional factorial design, this experiment examines these va
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
-## [Natural Language Processing: Coachella Sentiment Analysis](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link) 
+## Natural Language Processing: Coachella Sentiment Tweet Analysis
 
+**Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
-## [Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link) 
+## Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data
+
+**Full detailed report can be found [here](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link).**
 
 
 ## Radio Show Work 
 
-Below are examples of some of the graphics I designed for my radio show, Claws Radio, that is hosted weekly through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
+Below are examples of some of the graphics I designed for my radio show, Claws Radio, that is hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
 
 
