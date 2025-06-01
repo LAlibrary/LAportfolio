@@ -36,9 +36,10 @@ By implementing a fractional factorial design, this experiment examines these va
 ## Natural Language Processing: Coachella Sentiment Tweet Analysis
 The goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The dataset used is a Kaggle dataset sourced by Social Media Data consisting of 2015 Coachella tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods and a multinomial logistic regression were implemented along with the help of Python libraries such as TextBlob and NLTK.
 
-Below is an example of a Positive Word Cloud consisiting of top "positive" words identified by the model.
+Below are presentation slides concerning this project.
 
-![Example of a Positive World Cloud Consiting of Top Positive Keywords](https://github.com/user-attachments/assets/241df6bb-c646-4827-a7f7-4f7669274580)
+![image](https://github.com/user-attachments/assets/fc78cdb1-4191-4395-b08e-0ea8f44bb3f2)
+[Click Here to see Slides](https://csulb-my.sharepoint.com/:p:/r/personal/lynette_alvarado_student_csulb_edu/Documents/Coachella%20_%20LynetteProject.pptx?d=w2233429747b9434a870441dc44f6310f&csf=1&web=1&e=mDFdhh)
 
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
