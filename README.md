@@ -4,14 +4,10 @@ Hi my name is Lynette and this is a space to showcase some of my statistics and 
 Thank you for visiting.
 
 ## Visualizing The Markov Chain: Chord Progressions
-As formula-based music can be, there is also randomness involved. The possibility of any note is equally likely.
-The Markov Property can be applied to music in the sense that while a note is random, it may depend only on the current note being played in a sequence. 
-
-For this project, I chose to compare two of my favorite artists by their chord progression usage.
-I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
-
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
 
+For this project, I applied random processes statistical mehtods to music by comparing two of my favorite groups by their chord progression usage.
+I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R attributing to each song by each artist.
 I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
