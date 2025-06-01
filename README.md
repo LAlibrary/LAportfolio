@@ -32,7 +32,7 @@ Using Python, the goal of this report is to perform sentiment analysis to better
 
 [Click Here to see full PowerPoint Slides and learn more ](https://csulb-my.sharepoint.com/:p:/r/personal/lynette_alvarado_student_csulb_edu/Documents/Coachella%20_%20LynetteProject.pptx?d=w2233429747b9434a870441dc44f6310f&csf=1&web=1&e=mDFdhh)
 
-**Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
+**Full detailed report can be found [here](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link).**
 
 ## Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data
 Using SAS, this report applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (The Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
@@ -41,7 +41,7 @@ Below is a table of the model building process with variables (with * indicating
 
 ![Model Statistics](https://github.com/user-attachments/assets/adcbc7a0-653d-46be-9408-0ce07b3b13d2)
 
-**Full detailed report can be found [here](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link).**
+**Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
 ## Radio Show Project
 Below are examples of graphics I designed to promote my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. 
