@@ -35,7 +35,7 @@ Using Python, the goal of this report is to perform sentiment analysis to better
 **Full detailed report can be found [here](https://drive.google.com/file/d/1UxzUPnogPYd9GKnnvTcPN8OtR4AFGGz6/view?usp=drive_link).**
 
 ## Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data
-Using SAS, this report applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (The Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
+Using SAS, this project applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (the Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
 
 Below is a table of the model building process with variables (with * indicating significance) and the corresponding -2logL statistic, and AIC.
 
