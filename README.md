@@ -26,7 +26,7 @@ This experiment investigates the interactions among balloon size, vinegar, and b
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
 ## Natural Language Processing: Coachella Sentiment Tweet Analysis
-The goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The dataset used is a Kaggle dataset sourced by Social Media Data consisting of 2015 Coachella tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods, word clouds, and a multinomial logistic regression were implemented with additional help from Python libraries such as TextBlob and NLTK.
+Using Python, the goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The dataset used is a Kaggle dataset sourced by Social Media Data consisting of 2015 Coachella tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods, word clouds, and a multinomial logistic regression were implemented with additional help from Python libraries such as TextBlob and NLTK. 
 
 [Click Here to see full PowerPoint Slides and learn more ](https://csulb-my.sharepoint.com/:p:/r/personal/lynette_alvarado_student_csulb_edu/Documents/Coachella%20_%20LynetteProject.pptx?d=w2233429747b9434a870441dc44f6310f&csf=1&web=1&e=mDFdhh)
 
@@ -35,7 +35,7 @@ The goal of this report is to perform sentiment analysis to better understand wh
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
 ## Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data
-The WHAS dataset, fully referred to as the Worcester Heart Attack Study, is a study on long-term survival following hospitalization for an acute myocardial infarction, also abbreviated AMI. This report uses the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data.
+Using SAS, this report applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (The Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
 
 Below is a table of the model building process with variables (with * indicating significance) and the corresponding -2logL statistic, and AIC.
 
