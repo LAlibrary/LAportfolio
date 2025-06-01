@@ -48,8 +48,6 @@ One of my projects is my radio show, "Claws Radio", that hosts weekly music them
 
 [Click here to check out a playlist I curated to highlight producers Timbaland and Darkchild](https://open.spotify.com/playlist/6FhkqmW2xWaNcUOTA5OQB1?si=f711685160df4df0)
 
-https://open.spotify.com/playlist/6FhkqmW2xWaNcUOTA5OQB1?si=f711685160df4df0 
-
 Below are examples of graphics I designed to promote my radio show.
 
 ![image](https://github.com/user-attachments/assets/1666b9c5-717a-407f-9f5f-5861949dcb08)
