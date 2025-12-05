@@ -1,6 +1,5 @@
 # [Lynette's Portfolio](https://github.com/LAlibrary/LAportfolio) 
-Hi my name is Lynette, and this is a space to showcase some of my statistics and extracurricular projects. I love data that helps us understand the world around us.
-
+Hi my name is Lynette, and this is a space to showcase some of my statistics and extracurricular projects.
 Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com !
 
 ## Visualizing The Markov Chain: Chord Progressions
