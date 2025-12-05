@@ -1,7 +1,7 @@
 # [Lynette's Portfolio](https://github.com/LAlibrary/LAportfolio) 
-Hi my name is Lynette and this is a space to showcase some of my statistics and extracurricular projects.
+Hi my name is Lynette and this is a space to showcase some of my statistics and extracurricular projects. I love data that helps us understand the world around us.
 
-Thank you for visiting.
+Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com !
 
 ## Visualizing The Markov Chain: Chord Progressions
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
@@ -71,11 +71,12 @@ Below are examples of graphics I designed to promote my radio show.
 
 Writing about music and media is one of my hobbies. Below is an article I wrote for 22 West Magazine about Honduran pop star Isabella Lovestory and her Vanity World Tour. 
 
-<img width="724" height="930" alt="image" src="https://github.com/user-attachments/assets/7440a1be-df63-486d-86ca-9deb6582f43c" />
-<img width="722" height="930" alt="image" src="https://github.com/user-attachments/assets/95e36786-9a19-463a-a7b5-a3c43d06c2ef" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/629c2914-1e79-46df-95ec-7c7e54cba7fd" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3f30bf-0342-4d15-9b8c-0639bdc826bf" />
 
 
-** Full spread can be found [here](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
+
+** Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
 
 
 
