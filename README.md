@@ -54,7 +54,10 @@ Below are examples of graphics I have designed to promote my radio show.
 ![89B7FDC4-0EC4-4D5D-947A-84DD7AD63DF9](https://github.com/user-attachments/assets/1e31408f-aaf5-41e3-85a3-09953bd921c2)
 
 <img width="1080" height="1080" alt="Artboard 5" src="https://github.com/user-attachments/assets/c8d9cae6-1b11-4e95-8ba4-d21f48346db2" />
-
+<img width="1080" height="1080" alt="Artboard 10" src="https://github.com/user-attachments/assets/b05f8589-29b2-4098-bab1-37632b0f6179" />
+<img width="1080" height="1080" alt="Artboard 6" src="https://github.com/user-attachments/assets/04c30cc4-68d2-4a93-9177-1db330b3515d" />
+<img width="1080" height="1080" alt="Artboard 8" src="https://github.com/user-attachments/assets/8facb675-0179-45ef-83dd-c41a03b8f66a" />
+<img width="1080" height="1080" alt="Artboard 9" src="https://github.com/user-attachments/assets/c1dad031-5963-44f2-8c5d-2ba09fb8e62e" />
 
 ## Writing Samples
 
