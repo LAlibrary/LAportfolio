@@ -68,5 +68,5 @@ Writing about music and media is one of my hobbies. Below is a published article
 Feel free to check out my Substack blog [here](https://everybodycheered.substack.com/) too, where I write and will continue to write about music and more!
 
 
-... To be continued...
+To be continued...
 
