@@ -43,8 +43,8 @@ Below is a table of the model building process with variables (with * indicating
 
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
-## Radio Show Project: Claws Radio
-One of my favorite passions outside of academia is my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
+## Running a Radio Show: Claws Radio
+One of my favorite passions is producing a radio show, Claws Radio, a show which hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
 
 [Click here to check out a playlist I curated and collabrated on to highlight girl groups](https://open.spotify.com/playlist/4z98F6OriHeMCaOwTlrgU4?si=9a1bf332d1d64247)
 
@@ -59,9 +59,11 @@ Below are examples of graphics I have designed to promote my radio show.
 <img width="1080" height="1080" alt="Artboard 8" src="https://github.com/user-attachments/assets/8facb675-0179-45ef-83dd-c41a03b8f66a" />
 <img width="1080" height="1080" alt="Artboard 9" src="https://github.com/user-attachments/assets/c1dad031-5963-44f2-8c5d-2ba09fb8e62e" />
 
-## Writing Samples
+<img width="1080" height="1080" alt="Artboard 4" src="https://github.com/user-attachments/assets/947ce647-1b8e-436b-8895-9426faeb464b" /> <img width="1080" height="1080" alt="Artboard 11" src="https://github.com/user-attachments/assets/0e9960fd-5bb9-4019-9ce8-75cc01306c3b" />
 
-Writing about music and media is one of my hobbies. Below is an article I wrote for 22 West Magazine about Honduran pop star Isabella Lovestory and her Vanity World Tour. 
+## Writing
+
+Writing about music and media is one of my hobbies. Below is a published article I wrote for 22 West Magazine about Honduran pop star Isabella Lovestory and her 2025 Vanity World Tour. 
 
 **Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
 
