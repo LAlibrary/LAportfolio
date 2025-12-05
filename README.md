@@ -44,11 +44,11 @@ Below is a table of the model building process with variables (with * indicating
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
 ## Radio Show Project: Claws Radio
-One of my projects is my radio show, "Claws Radio", that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
+One of my favorite passions outside of academia is my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
 
 [Click here to check out a playlist I curated to highlight producers Timbaland and Darkchild](https://open.spotify.com/playlist/6FhkqmW2xWaNcUOTA5OQB1?si=f711685160df4df0)
 
-Below are examples of graphics I designed to promote my radio show.
+Below are examples of graphics I have designed to promote my radio show.
 
 ![image](https://github.com/user-attachments/assets/1666b9c5-717a-407f-9f5f-5861949dcb08)
 
@@ -65,6 +65,14 @@ Below are examples of graphics I designed to promote my radio show.
 ![image](https://github.com/user-attachments/assets/8969ed61-f787-4197-a68f-03512e8325a5)
 
 ![image](https://github.com/user-attachments/assets/66ea6680-d7c0-4ced-942f-0b47761516f1)
+
+![89B7FDC4-0EC4-4D5D-947A-84DD7AD63DF9](https://github.com/user-attachments/assets/1e31408f-aaf5-41e3-85a3-09953bd921c2)
+
+<img width="1080" height="1080" alt="Artboard 5" src="https://github.com/user-attachments/assets/c8d9cae6-1b11-4e95-8ba4-d21f48346db2" />
+
+
+
+
 
 
 ## Writing Samples
