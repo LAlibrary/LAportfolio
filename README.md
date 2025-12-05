@@ -63,6 +63,9 @@ Writing about music and media is one of my hobbies. Below is a published article
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/629c2914-1e79-46df-95ec-7c7e54cba7fd" />
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3f30bf-0342-4d15-9b8c-0639bdc826bf" />
 
-Feel free to check out my substack blog [here](https://everybodycheered.substack.com/) too!
 
-To be continued...
+Feel free to check out my Substack blog [here](https://everybodycheered.substack.com/) too, where I write and will continue to write about music and more!
+
+
+... To be continued...
+
