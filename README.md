@@ -50,29 +50,10 @@ One of my favorite passions outside of academia is my radio show, Claws Radio, t
 
 Below are examples of graphics I have designed to promote my radio show.
 
-![image](https://github.com/user-attachments/assets/1666b9c5-717a-407f-9f5f-5861949dcb08)
-
-![image](https://github.com/user-attachments/assets/e02f60f4-7659-4378-a29e-e64768f60720)
-
-![image](https://github.com/user-attachments/assets/47a8b855-b3a7-457d-9bc6-68771236993f)
-
-![image](https://github.com/user-attachments/assets/d2afe297-5ad0-4360-ab16-261f92ccdde3)
-
-![image](https://github.com/user-attachments/assets/f4cb6fd6-8d32-47ef-a297-40686639df81)
-
-![image](https://github.com/user-attachments/assets/5e3da129-19b3-463d-b58d-49d5bdcdff2c)
-
-![image](https://github.com/user-attachments/assets/8969ed61-f787-4197-a68f-03512e8325a5)
-
-![image](https://github.com/user-attachments/assets/66ea6680-d7c0-4ced-942f-0b47761516f1)
 
 ![89B7FDC4-0EC4-4D5D-947A-84DD7AD63DF9](https://github.com/user-attachments/assets/1e31408f-aaf5-41e3-85a3-09953bd921c2)
 
 <img width="1080" height="1080" alt="Artboard 5" src="https://github.com/user-attachments/assets/c8d9cae6-1b11-4e95-8ba4-d21f48346db2" />
-
-
-
-
 
 
 ## Writing Samples
