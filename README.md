@@ -6,9 +6,9 @@ Thank you for visiting.
 ## Visualizing The Markov Chain: Chord Progressions
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
 
-For this project, I applied random processes statistical mehtods to music by comparing two of my favorite groups by their chord progression usage.
+For this project, I applied random processes statistical methods to music by comparing two of my favorite groups by their chord progression usage.
 I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
-I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R attributing to each song by each artist.
+I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R, attributing to each song by each artist.
 I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
 ![image](https://github.com/user-attachments/assets/6ef39439-d230-4723-91a9-89977ecd1cab)
@@ -28,7 +28,7 @@ This experiment investigates the interactions among balloon size, vinegar, and b
 ## Natural Language Processing: Coachella Sentiment Tweet Analysis
 ![image](https://github.com/user-attachments/assets/fc78cdb1-4191-4395-b08e-0ea8f44bb3f2)
 
-Using Python, the goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The dataset used is a Kaggle dataset sourced by Social Media Data consisting of 2015 Coachella tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods, word clouds, and a multinomial logistic regression were implemented with additional help from Python libraries such as TextBlob and NLTK. 
+Using Python, the goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The dataset used is a Kaggle dataset sourced by Social Media Data, consisting of 2015 Coachella tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods, word clouds, and a multinomial logistic regression were implemented with additional help from Python libraries such as TextBlob and NLTK. 
 
 [Click Here to see full PowerPoint presentation](https://drive.google.com/file/d/1FFnpyWg_oU58LQNKX6o3H3nHiJJVaHlh/view?usp=sharing)
 
@@ -67,9 +67,15 @@ Below are examples of graphics I designed to promote my radio show.
 ![image](https://github.com/user-attachments/assets/66ea6680-d7c0-4ced-942f-0b47761516f1)
 
 
+## Writing Samples
+
+Writing about music and media is one of my hobbies. Below is an article I wrote for 22 West Magazine about Honduran pop star Isabella Lovestory and her Vanity World Tour. 
+
+<img width="724" height="930" alt="image" src="https://github.com/user-attachments/assets/7440a1be-df63-486d-86ca-9deb6582f43c" />
+<img width="722" height="930" alt="image" src="https://github.com/user-attachments/assets/95e36786-9a19-463a-a7b5-a3c43d06c2ef" />
 
 
-
+** Full spread can be found [here](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
 
 
 
