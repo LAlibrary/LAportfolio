@@ -83,8 +83,7 @@ Writing about music and media is one of my hobbies. Below is an article I wrote 
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3f30bf-0342-4d15-9b8c-0639bdc826bf" />
 
 
-
-** Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
+**Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
 
 
 
