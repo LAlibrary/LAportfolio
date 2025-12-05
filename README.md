@@ -62,13 +62,10 @@ Below are examples of graphics I have designed to promote my radio show.
 ## Writing Samples
 
 Writing about music and media is one of my hobbies. Below is an article I wrote for 22 West Magazine about Honduran pop star Isabella Lovestory and her Vanity World Tour. 
+**Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
 
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/629c2914-1e79-46df-95ec-7c7e54cba7fd" />
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3f30bf-0342-4d15-9b8c-0639bdc826bf" />
 
 
-**Full spread and article can be found [here on pages 14-15](https://www.22westmedia.com/magazine/read/22-west-magazine-2025-community-issue).**
-
-
-
-
+to be continued...
