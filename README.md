@@ -46,7 +46,7 @@ Below is a table of the model building process with variables (with * indicating
 ## Radio Show Project: Claws Radio
 One of my favorite passions outside of academia is my radio show, Claws Radio, that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
 
-[Click here to check out a playlist I curated to highlight producers Timbaland and Darkchild](https://open.spotify.com/playlist/6FhkqmW2xWaNcUOTA5OQB1?si=f711685160df4df0)
+[Click here to check out a playlist I curated and collabrated on to highlight girl groups](https://open.spotify.com/playlist/4z98F6OriHeMCaOwTlrgU4?si=9a1bf332d1d64247)
 
 Below are examples of graphics I have designed to promote my radio show.
 
