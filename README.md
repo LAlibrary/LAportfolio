@@ -11,15 +11,13 @@ I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink 
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R, attributing to each song by each artist.
 I then computed the transition probability matrices for each artist based on their chord progression among both songs.
 
-![image](https://github.com/user-attachments/assets/6ef39439-d230-4723-91a9-89977ecd1cab)
-
 **Full detailed report can be read [here](https://drive.google.com/file/d/134dFluWyTyfalqecKEDoP2qqQ67duInS/view?usp=share_link).**
 
 ## Statistical Experimental Design: The Fractional Factorial Design
 ![image](https://github.com/user-attachments/assets/200e3d41-09d1-4214-86c3-1972667abe83)
 
 This was a group project in which an experiment was conducted and a fractional factorial design was used to analyze the data collected. 
-This experiment investigates the interactions among balloon size, vinegar, and baking soda on their collective impact on carbon dioxide gas production. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calulated by hand, and all factors were found to be statistically significant.
+This experiment investigates the interactions among balloon size, vinegar, and baking soda on their collective impact on carbon dioxide gas production. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calculated by hand, and all factors were found to be statistically significant.
 
 ![image](https://github.com/user-attachments/assets/875bb301-d733-4592-8269-6dea6c802724)
  
@@ -37,16 +35,16 @@ Using Python, the goal of this report is to perform sentiment analysis to better
 ## Survival Analysis: Applying the Cox Regression & Other Survival Methods on Hospitalization Data
 Using SAS, this project applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (the Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
 
-Below is a table of the model building process with variables (with * indicating significance) and the corresponding -2logL statistic, and AIC.
+Below is a table of the model building process with variables (with * indicating significance) and the corresponding 2logL statistic, and AIC.
 
 ![Model Statistics](https://github.com/user-attachments/assets/adcbc7a0-653d-46be-9408-0ce07b3b13d2)
 
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
 ## Running a Radio Show: Claws Radio
-One of my favorite passions is producing a radio show, Claws Radio, a show which hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
+One of my favorite passions is producing a radio show, Claws Radio, a show that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
 
-[Click here to check out a playlist I curated and collabrated on to highlight girl groups](https://open.spotify.com/playlist/4z98F6OriHeMCaOwTlrgU4?si=9a1bf332d1d64247)
+[Click here to check out a playlist I curated and collaborated on to highlight girl groups](https://open.spotify.com/playlist/4z98F6OriHeMCaOwTlrgU4?si=9a1bf332d1d64247)
 
 Below are examples of graphics I have designed to promote my radio show.
 
@@ -59,7 +57,7 @@ Below are examples of graphics I have designed to promote my radio show.
 <img width="1080" height="1080" alt="Artboard 8" src="https://github.com/user-attachments/assets/8facb675-0179-45ef-83dd-c41a03b8f66a" />
 <img width="1080" height="1080" alt="Artboard 9" src="https://github.com/user-attachments/assets/c1dad031-5963-44f2-8c5d-2ba09fb8e62e" />
 
-<img width="1080" height="1080" alt="Artboard 4" src="https://github.com/user-attachments/assets/947ce647-1b8e-436b-8895-9426faeb464b" /> <img width="1080" height="1080" alt="Artboard 11" src="https://github.com/user-attachments/assets/0e9960fd-5bb9-4019-9ce8-75cc01306c3b" />
+<img width="1080" height="1080" alt="Artboard 4" src="https://github.com/user-attachments/assets/947ce647-1b8e-436b-8895-9426faeb464b" /><img width="1080" height="1080" alt="Artboard 11" src="https://github.com/user-attachments/assets/0e9960fd-5bb9-4019-9ce8-75cc01306c3b" />
 
 ## Writing
 
