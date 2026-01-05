@@ -3,11 +3,7 @@ Hi my name is Lynette, and this is a space to showcase my projects.
 Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com
 
 ## Visualizing The Markov Chain: Chord Progressions
-![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
-
 ![MARKOVCHAIN](https://github.com/user-attachments/assets/22614c52-aa41-431e-93b1-f87039a5690d)
-
-
 For this project, I applied stochastic statistical methods to music by comparing two of my favorite groups by their chord progression usage.
 I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R, attributing to each song by each artist.
@@ -18,14 +14,12 @@ I then computed the transition probability matrices for each artist based on the
 ## Statistical Experimental Design: The Fractional Factorial Design
 This was a group project in which an experiment was conducted, and a fractional factorial design was used to analyze the data collected. 
 This experiment investigates the interactions among balloon size, vinegar, and baking soda on their collective impact on carbon dioxide gas production. The objective of this experiment is to discern the individual and combined effects of the factors. Calculations were calculated by hand, and all factors were found to be statistically significant.
-
-![image](https://github.com/user-attachments/assets/875bb301-d733-4592-8269-6dea6c802724)
+![ANOVA](https://github.com/user-attachments/assets/eb8b0450-a803-43ec-a3c0-887aa69eb436)
  
 **Full detailed report with collaboration details can be found [here](https://drive.google.com/file/d/1_qGVklQ63YEqS1izuqWtauyE7r7hO4A6/view?usp=drive_link).**
 
 ## Natural Language Processing: Coachella Sentiment Tweet Analysis
-![image](https://github.com/user-attachments/assets/fc78cdb1-4191-4395-b08e-0ea8f44bb3f2)
-
+![COACHELLA](https://github.com/user-attachments/assets/549b2ba9-bf0f-45c0-b386-de4175b6b6e2)
 Using Python, the goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets. The festival has a strong social media presence that can be applicable in the field of data mining and natural language processing (NLP). Machine learning methods, word clouds, and a multinomial logistic regression were implemented with additional help from Python libraries such as TextBlob and NLTK. 
 
 [Click Here to see full PowerPoint presentation](https://drive.google.com/file/d/1FFnpyWg_oU58LQNKX6o3H3nHiJJVaHlh/view?usp=sharing)
@@ -36,8 +30,7 @@ Using Python, the goal of this report is to perform sentiment analysis to better
 Using SAS, this project applies the cox regression model, stratified cox model, and other statistical methods such as the Log-Rank Test and Kaplan Meier curves to help visualize and propose a final model and interpretation of the survival data (the Worcester Heart Attack Study, a study on long-term survival following hospitalization for an acute myocardial infarction). 
 
 Below is a table of the model building process with variables (with * indicating significance) and the corresponding 2logL statistic, and AIC.
-
-![Model Statistics](https://github.com/user-attachments/assets/adcbc7a0-653d-46be-9408-0ce07b3b13d2)
+![COX](https://github.com/user-attachments/assets/7540d543-97f9-4295-b0a6-ea711bf19f55)
 
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
