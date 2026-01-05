@@ -61,8 +61,8 @@ Writing about music and media is one of my hobbies. Below is a published article
 
 **Full spread and article can be found [here](https://issuu.com/22westmagazine/docs/22_west_magazine_-_2025_community_issue/14).**
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/629c2914-1e79-46df-95ec-7c7e54cba7fd" />
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3f30bf-0342-4d15-9b8c-0639bdc826bf" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/978968b7-1bbc-4569-9b96-daaf8669a25d" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1219d993-02d1-4784-b568-5670460c5184" />
 
 
 Feel free to check out my Substack blog [here](https://everybodycheered.substack.com/) too, where I write and will continue to write about music and more!
