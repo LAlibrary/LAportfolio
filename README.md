@@ -35,7 +35,7 @@ Below is a table of the model building process with variables (with * indicating
 **Full detailed report can be found [here](https://drive.google.com/file/d/1kc6COTGRY0z9KNTIuKKXaXrv4Fe2EnS4/view?usp=drive_link).**
 
 ## Running a Radio Show: Claws Radio
-One of my favorite passions is producing a radio show, Claws Radio, a show that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate Spotify playlists for each theme. 
+One of my favorite passions is producing a radio show, Claws Radio, a show that hosts weekly music themes through 22 West Radio, a student-run radio station located at Cal State Long Beach. In addition to writing radio scripts and promoting my radio hour via social media, I also curate music playlists for each week.
 
 [Click here to check out a playlist I curated and collaborated on to highlight girl groups](https://open.spotify.com/playlist/4z98F6OriHeMCaOwTlrgU4?si=9a1bf332d1d64247)
 
