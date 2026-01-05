@@ -48,15 +48,15 @@ One of my favorite passions is producing a radio show, Claws Radio, a show that 
 
 Below are examples of graphics I have designed to promote my radio show.
 
-![89B7FDC4-0EC4-4D5D-947A-84DD7AD63DF9](https://github.com/user-attachments/assets/1e31408f-aaf5-41e3-85a3-09953bd921c2)
-<img width="1080" height="1080" alt="sample week tracklist-11" src="https://github.com/user-attachments/assets/1666cbc5-0e25-43da-9484-e236af43e47c" />
-<img width="1080" height="1080" alt="Artboard 5" src="https://github.com/user-attachments/assets/c8d9cae6-1b11-4e95-8ba4-d21f48346db2" />
-<img width="1080" height="1080" alt="Artboard 10" src="https://github.com/user-attachments/assets/b05f8589-29b2-4098-bab1-37632b0f6179" />
-<img width="1080" height="1080" alt="Artboard 6" src="https://github.com/user-attachments/assets/04c30cc4-68d2-4a93-9177-1db330b3515d" />
-<img width="1080" height="1080" alt="Artboard 8" src="https://github.com/user-attachments/assets/8facb675-0179-45ef-83dd-c41a03b8f66a" />
-<img width="1080" height="1080" alt="Artboard 9" src="https://github.com/user-attachments/assets/c1dad031-5963-44f2-8c5d-2ba09fb8e62e" />
-<img width="1080" height="1080" alt="Artboard 4" src="https://github.com/user-attachments/assets/947ce647-1b8e-436b-8895-9426faeb464b" />
-<img width="1080" height="1080" alt="Artboard 11" src="https://github.com/user-attachments/assets/0e9960fd-5bb9-4019-9ce8-75cc01306c3b" />
+![claws1](https://github.com/user-attachments/assets/94db21f8-fdc8-40aa-890d-53caac3f84df)
+![claws2](https://github.com/user-attachments/assets/98a573a7-8df8-420e-ae06-41f912a71139)
+![claws3](https://github.com/user-attachments/assets/dd13cfc4-4020-4ed2-a72e-28fbce4624fd)
+![gg1](https://github.com/user-attachments/assets/d366251f-3ae4-46b8-9137-56db0f982d56)
+![gg2](https://github.com/user-attachments/assets/606639d0-5ab4-4ae7-b504-ea424b9c3620)
+![gg3](https://github.com/user-attachments/assets/c77583e6-26b2-4ecb-8306-970465475e83)
+![gg4](https://github.com/user-attachments/assets/e78218a1-e967-4c12-a69b-1f182fc46cd5)
+![ISABELLA](https://github.com/user-attachments/assets/cac74421-ac24-4c8f-bfad-009bd72515d6)
+![ISABELLA2](https://github.com/user-attachments/assets/b804adfe-07ae-4a49-b1f2-ef63fe674e4d)
 
 ## Writing
 
@@ -64,8 +64,7 @@ Writing about music and media is one of my hobbies. Below is a published article
 
 **Full spread and article can be found [here](https://issuu.com/22westmagazine/docs/22_west_magazine_-_2025_community_issue/14).**
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/978968b7-1bbc-4569-9b96-daaf8669a25d" />
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1219d993-02d1-4784-b568-5670460c5184" />
-
+![WRITE1](https://github.com/user-attachments/assets/5854e303-09e5-4808-8c7c-d71901160e51)
+![WRITE2](https://github.com/user-attachments/assets/4bce39de-1202-47ee-a2a7-a19a109dcb5c)
 
 Feel free to check out my Substack blog [here](https://everybodycheered.substack.com/) too, where I write and will continue to write about music and more!
