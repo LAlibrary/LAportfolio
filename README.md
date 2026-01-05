@@ -1,6 +1,6 @@
 # [Lynette's Portfolio](https://github.com/LAlibrary/LAportfolio) 
 Hi my name is Lynette, and this is a space to showcase my projects.
-Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com !
+Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com
 
 ## Visualizing The Markov Chain: Chord Progressions
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
