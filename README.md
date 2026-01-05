@@ -5,6 +5,9 @@ Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook
 ## Visualizing The Markov Chain: Chord Progressions
 ![image](https://github.com/user-attachments/assets/a6119e62-15c9-4d17-a2c3-0ee5f35555c6)
 
+![MARKOVCHAIN](https://github.com/user-attachments/assets/22614c52-aa41-431e-93b1-f87039a5690d)
+
+
 For this project, I applied stochastic statistical methods to music by comparing two of my favorite groups by their chord progression usage.
 I chose the songs “Playing with Fire” and “Lovesick Girls” by Blackpink and “Landslide” and “Dreams” by Fleetwood Mac.
 I gathered chord progressions through the sites Chordify and HookTheory (cited in report below), and I constructed a vector of chords in R, attributing to each song by each artist.
