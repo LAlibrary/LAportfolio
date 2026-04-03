@@ -3,15 +3,17 @@ Hi my name is Lynette, and this is a space to showcase my projects and interests
 Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com.
 
 ## Visualizing The Markov Chain: Chord Progressions
-![MARKOVCHAIN](https://github.com/user-attachments/assets/22614c52-aa41-431e-93b1-f87039a5690d)
 Using stochastic statistical methods, I compare two of my favorite groups by their chord progression usage.
 Transition probability matrices for each artist showcase patterns in melodies/chords.
+
+![MARKOVCHAIN](https://github.com/user-attachments/assets/22614c52-aa41-431e-93b1-f87039a5690d)
 
 <img width="1358" height="734" alt="image" src="https://github.com/user-attachments/assets/5b22cabd-d345-40e2-9c06-4e5e62f38896" />
 
 ## Natural Language Processing: Coachella Sentiment Tweet Analysis
-![COACHELLA](https://github.com/user-attachments/assets/549b2ba9-bf0f-45c0-b386-de4175b6b6e2)
 Using Python, the goal of this report is to perform sentiment analysis to better understand what users think about the music festival Coachella, with emphasis on “negative” and “positive” tweets.
+
+![COACHELLA](https://github.com/user-attachments/assets/549b2ba9-bf0f-45c0-b386-de4175b6b6e2)
 
 [Click Here to see full PowerPoint presentation](https://drive.google.com/file/d/1FFnpyWg_oU58LQNKX6o3H3nHiJJVaHlh/view?usp=sharing)
 
