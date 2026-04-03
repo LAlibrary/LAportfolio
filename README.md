@@ -1,6 +1,6 @@
 # [Lynette's Portfolio](https://github.com/LAlibrary/LAportfolio) 
 Hi my name is Lynette, and this is a space to showcase my projects and interests.
-Thank you for visiting. Feel free to reach out to me at lynette_alvarado@outlook.com.
+Thank you for visiting! Feel free to reach out to me at lynette_alvarado@outlook.com.
 
 ## Visualizing The Markov Chain: Chord Progressions
 Using stochastic statistical methods, I compare two of my favorite groups by their chord progression usage.
