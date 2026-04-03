@@ -28,7 +28,7 @@ A highlight is my collaboration with DJ Lance Rock in which I invited him as a g
 <img width="1081" height="1351" alt="image" src="https://github.com/user-attachments/assets/e2e7dc65-d26f-4aed-9a44-0770d1fa6729" />
 
 
-Below are examples of graphics I have designed to promote my radio show.
+Below are more examples of graphics I have designed to promote my radio show.
 
 ![claws1](https://github.com/user-attachments/assets/94db21f8-fdc8-40aa-890d-53caac3f84df)
 ![claws2](https://github.com/user-attachments/assets/98a573a7-8df8-420e-ae06-41f912a71139)
@@ -48,5 +48,3 @@ Writing about music and media is one of my hobbies. Below is a published article
 
 ![WRITE1](https://github.com/user-attachments/assets/5854e303-09e5-4808-8c7c-d71901160e51)
 ![WRITE2](https://github.com/user-attachments/assets/4bce39de-1202-47ee-a2a7-a19a109dcb5c)
-
-Feel free to check out my Substack blog [here](https://everybodycheered.substack.com/) too, where I write and will continue to write about music and more!
